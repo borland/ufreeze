@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game.vcproj", "{8B46B0B6-8100-4232-A238-C0A8B420EF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Debug Alpha
+		ConfigName.2 = Debug TA
+		ConfigName.3 = Release
+		ConfigName.4 = Release Alpha
+		ConfigName.5 = Release TA
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug.ActiveCfg = Debug|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug.Build.0 = Debug|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug Alpha.ActiveCfg = Debug Alpha|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug Alpha.Build.0 = Debug Alpha|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug TA.ActiveCfg = Debug TA|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Debug TA.Build.0 = Debug TA|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release.ActiveCfg = Release|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release.Build.0 = Release|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release Alpha.ActiveCfg = Release Alpha|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release Alpha.Build.0 = Release Alpha|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release TA.ActiveCfg = Release TA|Win32
+		{8B46B0B6-8100-4232-A238-C0A8B420EF60}.Release TA.Build.0 = Release TA|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
