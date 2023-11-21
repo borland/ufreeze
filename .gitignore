@@ -3,3 +3,7 @@
 *.dsp
 *.suo
 *.dsw
+.vs/
+Debug/
+DebugAxp/
+q3_ui___Win32_Debug/
